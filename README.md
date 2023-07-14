@@ -6,14 +6,10 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 
 ### CodeMe Workshop: Fundamental Concepts of Programming with BBC micro:bit
 
-![Microsoft_Office_PowerPoint_(2019–present) svg](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/9899d01f-e5a4-46b1-93db-0361de636521)
-
-
-
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,PowerPoint,figma&theme=light)](https://skills.thijs.gg)
+![PowerPoint](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/3db84c21-69a6-40ae-ad3c-da1045c9e89c)
 
 
 ### GetME Out Workshop: Robotics Programming with micro: Maqueen and BBC micro:bit
 
 
-![Microsoft_Office_PowerPoint_(2019–present) svg](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/9899d01f-e5a4-46b1-93db-0361de636521)
+![PowerPoint](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1)
