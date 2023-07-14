@@ -5,7 +5,7 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 
 <img align="right" width="400" height="200" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/e67b6807-9bf8-48fb-a71f-2370a61927da">
 
-<a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/blob/main/Introduction/Dream%20Big%20with%20Computer%20Science.pdf" target="_blank">Dream Big with Computer Science</a>
+<a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/blob/main/Introduction/Dream%20Big%20with%20Computer%20Science.pdf" target="_blank">Dream Big with Computer Science: Intro</a>
 
 # Hands-on workshop resources
 
