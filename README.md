@@ -10,7 +10,7 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 
 <a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/blob/main/Introduction/Dream%20Big%20with%20Computer%20Science.pdf" target="_blank">Dream Big with Computer Science: Introductions</a>
 
-# Hands-on workshop resources
+# Hands-on workshops resources
 
 ### CodeMe Workshop: Fundamental Concepts of Programming with BBC micro:bit
 
@@ -42,5 +42,8 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 
 <a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/tree/main/Cyber Security Workshop/Beat the Hacker_Code" target="_blank">Token Source Code</a>
 
+<img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/468172df-64d7-4ca0-9204-75b01b5dc982">   
+
+<a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/tree/main/Cyber Security Workshop/Beat the Hacker_Code" target="_blank">Token Source Code</a>
 
 
