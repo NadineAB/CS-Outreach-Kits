@@ -28,10 +28,10 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 
 <a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/blob/main/Robotics%20Workshop/GetME%20Out%20Workshop-%20Robotics%20Programming%20with%20micro-Maqueen.pdf" target="_blank">Robotics Programming with micro-Maqueen</a>
 
-### Beat the Hacker Workshop: Cybersecurity Programming with BBC micro: bit
+### Beat the Hacker Workshop: Cyber Security Programming with BBC micro: bit
 
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
 
 
-<a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/blob/main/Cyber%20Security%20Workshop/Cyber%20Security%20Programming%20Workshop.pdf" target="_blank">Robotics Programming with micro-Maqueen</a>
+<a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/blob/main/Cyber%20Security%20Workshop/Cyber%20Security%20Programming%20Workshop.pdf" target="_blank">Cyber Security Programming with BBC micro: bit</a>
 
