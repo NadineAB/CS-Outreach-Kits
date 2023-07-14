@@ -1,6 +1,6 @@
 # Brunel-CS-Outreach-Kits
 
-As the CS departmental Athena SWAN - outreach lead, I ran a number of different activities for schools and colleges to raise awareness of computing and its applications. Activities range from talks at open days through to hand on workshops on campus and/or at local schools.
+As the CS Athena SWAN outreach lead, I ran a number of different activities for schools and colleges to raise awareness of computing and its applications. Activities range from talks at open days through to hand on workshops on campus and/or at local schools.
 
 # Hands-On Experience Workshops
 
