@@ -9,7 +9,7 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 ```{r icon-chunk}
 ![PowerPoint](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/3db84c21-69a6-40ae-ad3c-da1045c9e89c=25x25)
 
-
+```{r icon-chunk} 
 ### GetME Out Workshop: Robotics Programming with micro: Maqueen and BBC micro:bit
 
 
