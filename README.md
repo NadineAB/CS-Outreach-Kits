@@ -40,7 +40,7 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/468172df-64d7-4ca0-9204-75b01b5dc982">   
 
-<a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/blob/main/Cyber%20Security%20Workshop/Cyber%20Security%20Programming%20Workshop.pdf" target="_blank">Cyber Security Programming with BBC micro: bit</a>
+<a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/tree/main/Cyber Security Workshop/Beat the Hacker_Code" target="_blank">Token Source Code</a>
 
 
 
