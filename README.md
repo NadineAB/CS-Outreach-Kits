@@ -10,9 +10,8 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,PowerPoint,figma&theme=light)](https://skills.thijs.gg)
 
-My Skills
 
 ### GetME Out Workshop: Robotics Programming with micro: Maqueen and BBC micro:bit
 
