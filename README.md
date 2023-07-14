@@ -13,4 +13,4 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 ### GetME Out Workshop: Robotics Programming with micro: Maqueen and BBC micro:bit
 
 
-![Microsoft_Office_PowerPoint_(2019–present) svg](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/9899d01f-e5a4-46b1-93db-0361de636521)
+![Microsoft_Office_PowerPoint_(2019–present) svg] [0.5](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/9899d01f-e5a4-46b1-93db-0361de636521)
