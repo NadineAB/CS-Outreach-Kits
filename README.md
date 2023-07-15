@@ -6,7 +6,7 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 <img align="right" width="400" height="200" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/e67b6807-9bf8-48fb-a71f-2370a61927da">
 
 ### Contributors: 
-- Nadine Aburumman
+- Nadine Aburumman (Athena SWAN Outreach Champion)
 
 ### Introductions to CS:
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">  
