@@ -10,7 +10,7 @@ As the CS Athena SWAN outreach team at Brunel, we ran a number of different acti
 
 ### Contributors: 
 - Nadine Aburumman (Athena SWAN Outreach Champion)
-- Rozerin Baran (CS Intern)
+- <a href="[Rozerin Baran (CS Intern)](https://www.linkedin.com/in/rozerin-baran/?originalSubdomain=uk)" target="_blank">Rozerin Baran (CS Intern)</a>
 
 ### Introductions to CS:
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">  
