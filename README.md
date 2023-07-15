@@ -30,14 +30,14 @@ For this workshop:
     - We will need one BBC micro: bit, and micro: Maqueen robot.
     - Print out the maze sheet.
     - The worksheet with instructions, which can be seen below.
-![3260050-200](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/683f259e-5869-4a33-a40d-f5b1f28f643d)
 
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
 
+![Maze](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/1d892b98-6985-406f-8b8a-528506167a8f)
 
 <a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/blob/main/Robotics%20Workshop/GetME%20Out%20Workshop-%20Robotics%20Programming%20with%20micro-Maqueen.pdf" target="_blank">Robotics Programming with micro-Maqueen</a>
 
-<img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/683f259e-5869-4a33-a40d-f5b1f28f643d">   
+<img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/1d892b98-6985-406f-8b8a-528506167a8f">   
 
 <a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/tree/main/Cyber Security Workshop/Beat the Hacker_Code" target="_blank">Token Source Code</a>
 
