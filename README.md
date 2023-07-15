@@ -33,8 +33,6 @@ For this workshop:
 
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
 
-![Maze](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/1d892b98-6985-406f-8b8a-528506167a8f)
-
 <a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/blob/main/Robotics%20Workshop/GetME%20Out%20Workshop-%20Robotics%20Programming%20with%20micro-Maqueen.pdf" target="_blank">Robotics Programming with micro-Maqueen</a>
 
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/1d892b98-6985-406f-8b8a-528506167a8f">   
