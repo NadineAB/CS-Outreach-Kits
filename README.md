@@ -43,7 +43,7 @@ For this workshop:
 
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/8c297580-bd7a-4a6b-bcaa-1721fe26f782">   
 
-<a href="Cyber Security Workshop/Beat the Hacker-SupportSheet.pdf" target="_blank">Worksheet</a>
+<a href="Robotics Workshop/OutoftheMaze-SupportSheet.pdf" target="_blank">Worksheet</a>
 
 
 
