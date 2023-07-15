@@ -1,5 +1,7 @@
 # Brunel CS Outreach Kits
 
+Resources for young people in Years 8,9,11, 12
+
 As the CS Athena SWAN outreach lead, I ran a number of different activities for schools and colleges to raise awareness of computing and its applications. My main goal is to inspire more women and girls into Computer Science. Activities range from talks at open days to hand on workshops on campus and/or at local schools. Some resources related to those hands-on workshops can be found below.
 
 
@@ -17,6 +19,8 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 
 ### CodeMe Workshop: Fundamental Concepts of Programming with BBC micro:bit
 
+This workshop is suitable for young people in Years 7,8,9 and all you need can be found below:
+
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
 
 
@@ -25,7 +29,7 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 
 ### GetME Out Workshop: Robotics Programming with micro: Maqueen and BBC micro:bit
 
-For this workshop:
+This workshop is suitable for young people in Years 10 and 11. For this workshop:
 
     - We will need one BBC micro: bit, and micro: Maqueen robot.
     - Print out the maze sheet.
@@ -49,7 +53,7 @@ For this workshop:
 
 ### Beat the Hacker Workshop: Cyber Security Programming with BBC micro: bit
 
-For this workshop:
+This workshop is suitable for young people in Years 11 and 12. For this workshop:
 
     - We will need two BBC micro: bits, one to act like a token and the second one for the students to programme and solve the worksheet.
     - The Token code, which can be downloaded on the token micro: bit.
