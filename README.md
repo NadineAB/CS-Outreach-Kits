@@ -43,10 +43,6 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 <a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/tree/main/Cyber Security Workshop/Beat the Hacker_Code" target="_blank">Token Source Code</a>
 
 
-![3260050-200](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/8c297580-bd7a-4a6b-bcaa-1721fe26f782)
-
-
-
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/8c297580-bd7a-4a6b-bcaa-1721fe26f782">   
 
 <a href="Cyber Security Workshop/Beat the Hacker-SupportSheet.pdf" target="_blank">Worksheet</a>
