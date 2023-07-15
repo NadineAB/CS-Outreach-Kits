@@ -45,8 +45,7 @@ This workshop is suitable for young people in Years 10 and 11. For this workshop
 
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/1d892b98-6985-406f-8b8a-528506167a8f">   
 
-<a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/tree/main/Cyber Security Workshop/Beat the Hacker_Code" target="_blank">Maze</a>
-
+<a href="Robotics Workshop/Maze_Challenge.pdf" target="_blank">Maze</a>
 
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/8c297580-bd7a-4a6b-bcaa-1721fe26f782">   
 
