@@ -19,7 +19,11 @@ As the CS Athena SWAN outreach lead, I ran a number of different activities for 
 
 ### CodeMe Workshop: Fundamental Concepts of Programming with BBC micro:bit
 
-This workshop is suitable for young people in Years 7,8,9 and all you need can be found below:
+This workshop is suitable for young people in Years 7,8 and 9. All you need can be found in the PowerPoint.
+
+For this workshop:
+
+    - We will need one BBC micro: bit
 
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
 
