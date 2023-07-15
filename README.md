@@ -50,9 +50,10 @@ For this workshop:
 ### Beat the Hacker Workshop: Cyber Security Programming with BBC micro: bit
 
 For this workshop:
-      -  We will need two BBC micro: bits, one to act like a token and the second one for the students to programme and solve the worksheet. 
-      -  The Token code, which can be downloaded on the token micro: bit.
-      -  The worksheet with instructions, which can be seen below.
+
+    - We will need two BBC micro: bits, one to act like a token and the second one for the students to programme and solve the worksheet.
+    - The Token code, which can be downloaded on the token micro: bit.
+    - The worksheet with instructions, which can be seen below.
   
 
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
