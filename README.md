@@ -79,6 +79,6 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 
 <a href="Cyber Security Workshop/Beat the Hacker-SupportSheet.pdf" target="_blank">Worksheet</a>
 
-### Luna Workshop: Video Game Programming with MakeCode Arcade
+### MakeFantasy Workshop: Video Game Programming with MakeCode Arcade
 
 
