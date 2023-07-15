@@ -30,13 +30,14 @@ For this workshop:
     - We will need one BBC micro: bit, and micro: Maqueen robot.
     - Print out the maze sheet.
     - The worksheet with instructions, which can be seen below.
+![3260050-200](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/683f259e-5869-4a33-a40d-f5b1f28f643d)
 
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
 
 
 <a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/blob/main/Robotics%20Workshop/GetME%20Out%20Workshop-%20Robotics%20Programming%20with%20micro-Maqueen.pdf" target="_blank">Robotics Programming with micro-Maqueen</a>
 
-<img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/468172df-64d7-4ca0-9204-75b01b5dc982">   
+<img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/683f259e-5869-4a33-a40d-f5b1f28f643d">   
 
 <a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/tree/main/Cyber Security Workshop/Beat the Hacker_Code" target="_blank">Token Source Code</a>
 
@@ -51,9 +52,9 @@ For this workshop:
 ### Beat the Hacker Workshop: Cyber Security Programming with BBC micro: bit
 
 For this workshop:
- -  We will need two BBC micro: bits, one to act like a token and the second one for the students to programme and solve the worksheet.
- -  The Token code, which can be downloaded on the token micro: bit.
- -  The worksheet with instructions, which can be seen below.
+      -  We will need two BBC micro: bits, one to act like a token and the second one for the students to programme and solve the worksheet. 
+      -  The Token code, which can be downloaded on the token micro: bit.
+      -  The worksheet with instructions, which can be seen below.
   
 
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
