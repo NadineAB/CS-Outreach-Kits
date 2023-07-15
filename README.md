@@ -1,4 +1,4 @@
-# Brunel CS Outreach Kits
+# Brunel CS Outreach Kits for Teachers & Students
 
 Resources for young people in Years 8,9,11, 12
 
