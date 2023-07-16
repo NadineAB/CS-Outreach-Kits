@@ -6,6 +6,7 @@ These resources are for teachers and students (Years 8,9,11 and 12), in which th
 As the CS Athena SWAN outreach team at Brunel, we ran a number of different activities for schools and colleges to raise awareness of computing and its applications. Our main goal is to inspire more women and girls into Computer Science. The activities we run range from talks at open days to hands-on workshops on campus and/or at local schools. Some resources related to those hands-on workshops can be found below.
 
 
+
 <img align="right" width="400" height="200" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/e67b6807-9bf8-48fb-a71f-2370a61927da">
 
 ### Contributors: 
