@@ -10,7 +10,7 @@ As the CS Athena SWAN outreach team at Brunel, we ran a number of different acti
 <img align="right" width="400" height="200" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/e67b6807-9bf8-48fb-a71f-2370a61927da">
 
 ### Contributors: 
-- Nadine Aburumman (Athena SWAN Outreach Champion)
+- <a href="https://www.brunel.ac.uk/people/nadine-aburumman" target="_blank"> Nadine Aburumman (Athena SWAN Outreach Champion)</a>
 - <a href="https://www.linkedin.com/in/rozerin-baran/?originalSubdomain=uk" target="_blank">Rozerin Baran (CS Intern)</a>
 
 ### Introductions to CS:
