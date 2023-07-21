@@ -101,7 +101,7 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 
 <a href="https://arcade.makecode.com/S89378-31731-87848-50316" target="_blank">Demo</a>
 
-### FEELME Workshop: Using AI to Recognising Emotions with Teachable Machine and BBC micro: bit.
+### FEELME Workshop: Using AI to Recognise Emotions with Teachable Machine and BBC micro: bit.
 
 This workshop is suitable for young people in Years 11 and 12. For this workshop:
 
@@ -111,14 +111,14 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
 
 
-<a href="Video Game Programming Workshop/MakeFantasy Workshop- Video Game Programming with MakeCode Arcade.pdf" target="_blank">Using AI to Recognising Emotions with Teachable Machine and BBC micro: bit</a>
+<a href="" target="_blank">Using AI to Recognise Emotions with Teachable Machine and BBC micro: bit</a>
 
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/468172df-64d7-4ca0-9204-75b01b5dc982">   
 
-<a href="https://github.com/RozerinB/arcade" target="_blank">Source Code</a>
+<a href="" target="_blank">Source Code</a>
 
 
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/3c9ab631-7031-4383-bff8-a1b33277e8e2">   
 
-<a href="https://arcade.makecode.com/S89378-31731-87848-50316" target="_blank">Demo</a>
+<a href="" target="_blank">Demo</a>
     
