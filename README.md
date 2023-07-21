@@ -105,5 +105,6 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 
 This workshop is suitable for young people in Years 11 and 12. For this workshop:
 
-    - We will need to work with Teachable Machine, which is a web-based tool that makes creating machine learning models fast, and easy. 
+    - We will need to work with Teachable Machine.
+    - Teachable Machineis a web-based tool that makes creating machine learning models fast, and easy. 
     
