@@ -99,6 +99,6 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/8c297580-bd7a-4a6b-bcaa-1721fe26f782">   
 
-<a href="Cyber Security Workshop/Beat the Hacker-SupportSheet.pdf" target="_blank">Worksheet</a>
+<a href="https://arcade.makecode.com/S89378-31731-87848-50316" target="_blank">Demo</a>
 
 
