@@ -90,7 +90,7 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
 
 
-<a href="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/blob/main/Cyber%20Security%20Workshop/Cyber%20Security%20Programming%20Workshop.pdf" target="_blank">Cyber Security Programming with BBC micro: bit</a>
+<a href="Video Game Programming Workshop/MakeFantasy Workshop- Video Game Programming with MakeCode Arcade.pdf" target="_blank">Video Game Programming with MakeCode Arcade</a>
 
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/468172df-64d7-4ca0-9204-75b01b5dc982">   
 
