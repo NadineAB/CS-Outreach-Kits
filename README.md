@@ -94,7 +94,7 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/468172df-64d7-4ca0-9204-75b01b5dc982">   
 
-<a href="https://github.com/RozerinB/arcade" target="_blank">Token Source Code</a>
+<a href="https://github.com/RozerinB/arcade" target="_blank">Source Code</a>
 
 
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/3c9ab631-7031-4383-bff8-a1b33277e8e2">   
