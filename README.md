@@ -84,7 +84,7 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 
 This workshop is suitable for young people in Years 11 and 12. For this workshop:
 
-    - We will need open MakeCode Arcade website to code this game
+    - We will need to create a new project using MakeCode Arcade website to start coding this game
   
 
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
