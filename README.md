@@ -101,3 +101,9 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 
 <a href="https://arcade.makecode.com/S89378-31731-87848-50316" target="_blank">Demo</a>
 
+### FEELME Workshop: Using AI to Recognising Emotions with Teachable Machine and BBC micro: bit.
+
+This workshop is suitable for young people in Years 11 and 12. For this workshop:
+
+    - We will need t work with Teachable Machine, which is an open-source, web-based tool that makes creating machine learning models fast, and easy (see this link https://teachablemachine.withgoogle.com/). 
+    
