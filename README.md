@@ -26,7 +26,7 @@ This workshop is suitable for young people in Years 7,8 and 9. All you need can 
 
 For this workshop:
 
-    - We will need one BBC micro: bit
+    - We will need one BBC micro: bit or you can use the simulator.
 
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
 
@@ -106,7 +106,8 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 This workshop is suitable for young people in Years 11 and 12. For this workshop:
 
     - We will need to work with Teachable Machine.
-    - Teachable Machine is a web-based tool that makes creating machine learning models fast, and easy. 
+    - Teachable Machine is a web-based tool that makes creating machine learning models fast, and easy.
+    - We will need one BBC micro: bit or you can use the simulator.
 
 <img align="left" width="30" height="30" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/6dff3979-958f-4414-8800-1c96b00b61e1">   
 
