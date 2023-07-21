@@ -56,6 +56,9 @@ This workshop is suitable for young people in Years 10 and 11. For this workshop
 
 
 
+<img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/3c9ab631-7031-4383-bff8-a1b33277e8e2">   
+
+<a href="Robotics Workshop/Demo.MOV" target="_blank">Demo</a>
 
 ### Beat the Hacker Workshop: Cyber Security Programming with BBC micro: bit
 
