@@ -100,6 +100,4 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/3c9ab631-7031-4383-bff8-a1b33277e8e2">   
 
 <a href="https://arcade.makecode.com/S89378-31731-87848-50316" target="_blank">Demo</a>
-![5511365](https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/3c9ab631-7031-4383-bff8-a1b33277e8e2)
-
 
