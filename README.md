@@ -1,4 +1,4 @@
-# Brunel CS Outreach Kits for Teachers & Students
+# CS Outreach Kits for Teachers & Students
 
 ###  <centering>  Inspire, Aspire, Accomplish </centering>
 These resources are for teachers and students (Years 8,9,11 and 12), in which the workshops presented below enable learning about programming through making, engaging, challenging, and collaborating.
