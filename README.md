@@ -90,6 +90,10 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 
 <a href="Cyber Security Workshop/Beat the Hacker-SupportSheet.pdf" target="_blank">Worksheet</a>
 
+<img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/468172df-64d7-4ca0-9204-75b01b5dc982">   
+
+<a href="https://makecode.microbit.org/S76566-92827-31423-91219" target="_blank">Challenge Solution</a>
+
 ### MakeFantasy Workshop: Video Game Programming with MakeCode Arcade
 
 This workshop is suitable for young people in Years 11 and 12. For this workshop:
