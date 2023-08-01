@@ -1,7 +1,7 @@
 # CS Outreach Kits for Teachers & Students
 
 ###  <centering>  Inspire, Aspire, Accomplish </centering>
-These kits are for teachers and students (Years 8,9,11 and 12), which the materials presented below enable learning about programming through making, engaging, challenging, and collaborating.
+These kits are for teachers and students (Years 8,9,11 and 12), and the materials presented below enable learning about programming through making, engaging, challenging, and collaborating.
 
 As the CS Athena SWAN outreach team at Brunel, we ran a number of different activities for schools and colleges to raise awareness of computing and its applications. Our main goal is to inspire more women and girls into Computer Science. The activities we run range from talks at open days to hands-on workshops on campus and/or at local schools. Some resources related to those hands-on workshops can be found below.
 
@@ -124,7 +124,7 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/468172df-64d7-4ca0-9204-75b01b5dc982">   
 
-<a href="" target="_blank">Source Code</a>
+<a href="AI Workshop/Using AI to Recognise Emotions with Teachable Machine and BBC micro-bit.hex" target="_blank">Source Code</a>
 
 
 <img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/3c9ab631-7031-4383-bff8-a1b33277e8e2">   
