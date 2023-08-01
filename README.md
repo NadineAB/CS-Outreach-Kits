@@ -127,7 +127,7 @@ This workshop is suitable for young people in Years 11 and 12. For this workshop
 <a href="AI Workshop/Using AI to Recognise Emotions with Teachable Machine and BBC micro-bit.hex" target="_blank">Source Code</a>
 
 
-<img align="left" width="40" height="40" src="https://github.com/NadineAB/Brunel-CS-Outreach-Kits/assets/7339533/3c9ab631-7031-4383-bff8-a1b33277e8e2">   
+<img align="left" width="40" height="40" src="https://makecode.microbit.org/S54292-56689-36699-45052">   
 
 <a href="https://www.youtube.com/watch?v=mywOR9ANrJY&list=PLb1j_TP3NcXnGvlHCo-RE7CjxY0yT_JMS" target="_blank">Demo</a>
     
